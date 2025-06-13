@@ -1,5 +1,6 @@
 {
   "title": "達文西飛行器",
-  "description": "這是一個根據達文西設計圖製作的飛行器 3D 模型。",
-  "model_url": "https://yourdomain.com/models/da_vinci_flyer.glb"
+  "description": "達文西設計的飛行器 3D 模型",
+  "model_url": "https://raw.githubusercontent.com/Hao095/my-3d-models1/main/da_vinci_flyer.glb"
 }
+
